@@ -1,2 +1,2 @@
 # resume
-this is my portfolio webpage
+This is my cv webpage made using html and css only.
